@@ -1,10 +1,8 @@
 const Hapi              = require('hapi');
 const h2o2              = require('h2o2');
-const hapiTrailingSlash = require('hapi-trailing-slash');
 
 const plugins = [
-  h2o2,
-  // hapiTrailingSlash
+  h2o2
 ];
 
 
