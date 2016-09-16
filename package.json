@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "h2o2": "5.1.1",
-    "hapi": "15.0.3",
-    "hapi-trailing-slash": "0.0.3"
+    "hapi": "15.0.3"
   }
 }
